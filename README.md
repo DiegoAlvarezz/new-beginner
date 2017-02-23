@@ -1,2 +1,2 @@
 # new-beginner
-Este programa es un Proyecto academico.
+Hola soy nuevo en esto de la programacion orientada a objetos.
